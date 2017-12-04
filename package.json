@@ -1,0 +1,19 @@
+{
+  "name": "express-test-2",
+  "version": "1.0.0",
+  "description": "Express test 2.",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "express",
+    "test"
+  ],
+  "author": "Joe Panuncialman",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.16.2",
+    "express-handlebars": "^3.0.0"
+  }
+}
